@@ -1,3 +1,8 @@
+---
+name: frontend-application-development
+description: Build production-quality, fast, accessible, and maintainable web interfaces. Use when developing frontend features, UI components, React/Vue/Angular applications, or web application styling and interactions.
+---
+
 # Skill: Frontend Application Development
 
 ## Purpose

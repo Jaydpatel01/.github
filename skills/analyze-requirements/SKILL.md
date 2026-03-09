@@ -1,3 +1,8 @@
+---
+name: analyze-requirements
+description: Analyze requirements and decompose tasks before implementation begins. Use when given a task description, user story, feature request, change request, or project specification — regardless of apparent simplicity.
+---
+
 # Skill: Requirements Analysis and Task Decomposition
 
 ## Purpose

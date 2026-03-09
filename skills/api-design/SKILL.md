@@ -1,3 +1,8 @@
+---
+name: api-design
+description: Design production-grade APIs that are consistent, versioned, and safe to evolve. Use before implementing any API endpoint, REST resource, GraphQL schema, or service interface.
+---
+
 # Skill: API Design
 
 ## Purpose

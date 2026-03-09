@@ -1,3 +1,8 @@
+---
+name: performance-optimization
+description: Optimize system performance to meet defined user and business requirements. Use when diagnosing latency issues, throughput bottlenecks, memory problems, or when profiling and improving the performance of code or infrastructure.
+---
+
 # Skill: Performance Optimization
 
 ## Purpose

@@ -1,3 +1,8 @@
+---
+name: architecture-and-planning
+description: Design scalable, maintainable system architecture and project planning before implementation. Use when starting a new project, major feature, or when making significant architectural decisions.
+---
+
 # Skill: System Architecture and Project Planning
 
 ## Purpose

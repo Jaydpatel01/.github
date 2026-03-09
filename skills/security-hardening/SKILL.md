@@ -1,3 +1,8 @@
+---
+name: security-hardening
+description: Build systems that are secure by default throughout the entire development lifecycle. Use when auditing for vulnerabilities, implementing security controls, hardening configurations, addressing OWASP concerns, or performing threat modeling.
+---
+
 # Skill: Security Hardening
 
 ## Purpose

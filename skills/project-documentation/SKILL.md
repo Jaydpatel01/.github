@@ -1,3 +1,8 @@
+---
+name: project-documentation
+description: Produce accurate, immediately useful technical documentation. Use when writing READMEs, API reference docs, architecture decision records (ADRs), runbooks, onboarding guides, or any technical documentation for a project.
+---
+
 # Skill: Technical Project Documentation
 
 ## Purpose

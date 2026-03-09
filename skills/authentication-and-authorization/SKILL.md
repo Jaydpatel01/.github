@@ -1,3 +1,8 @@
+---
+name: authentication-and-authorization
+description: Implement production-hardened, standards-compliant authentication and authorization. Use when building login systems, OAuth flows, JWT handling, RBAC, or any access control mechanism.
+---
+
 # Skill: Authentication and Authorization
 
 ## Purpose

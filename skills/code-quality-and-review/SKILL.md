@@ -1,3 +1,8 @@
+---
+name: code-quality-and-review
+description: Maintain code correctness, readability, and safety across a codebase. Use when reviewing code, performing refactoring, enforcing code quality standards, or conducting technical debt analysis.
+---
+
 # Skill: Code Quality and Review
 
 ## Purpose

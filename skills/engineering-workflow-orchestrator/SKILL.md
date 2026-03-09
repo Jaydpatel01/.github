@@ -1,3 +1,8 @@
+---
+name: engineering-workflow-orchestrator
+description: Coordinate the complete software development lifecycle by selecting and sequencing the appropriate sub-skills. Use as the entry point for complex, multi-phase engineering tasks that span requirements, architecture, implementation, testing, and deployment.
+---
+
 # Skill: Engineering Workflow Orchestrator
 
 ## Purpose
