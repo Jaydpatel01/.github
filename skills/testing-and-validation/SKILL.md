@@ -1,3 +1,8 @@
+---
+name: testing-and-validation
+description: Build test suites that give the team confidence to ship quickly and safely. Use when writing unit tests, integration tests, end-to-end tests, setting up testing infrastructure, or increasing test coverage for existing code.
+---
+
 # Skill: Automated Testing and System Validation
 
 ## Purpose

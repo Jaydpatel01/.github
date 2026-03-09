@@ -1,3 +1,8 @@
+---
+name: backend-service-development
+description: Build production-grade backend API services that are reliable, maintainable, observable, and secure. Use when developing server-side APIs, microservices, or backend business logic.
+---
+
 # Skill: Backend Service Development
 
 ## Purpose

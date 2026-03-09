@@ -1,3 +1,8 @@
+---
+name: deployment-and-release
+description: Ship software to production reliably, safely, and repeatably. Use when deploying applications, configuring CI/CD pipelines, managing release processes, or setting up deployment automation.
+---
+
 # Skill: Application Deployment and Release
 
 ## Purpose

@@ -1,3 +1,8 @@
+---
+name: data-management
+description: Design and manage reliable, performant, and safe data persistence. Use when working with databases, data models, schema design, migrations, caching strategies, or data lifecycle management.
+---
+
 # Skill: Data Management
 
 ## Purpose

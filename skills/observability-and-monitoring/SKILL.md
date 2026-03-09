@@ -1,3 +1,8 @@
+---
+name: observability-and-monitoring
+description: Instrument systems for full observability through structured logging, metrics, and distributed tracing. Use when setting up monitoring dashboards, alerting rules, log aggregation, or diagnosing issues in production systems.
+---
+
 # Skill: Observability and Monitoring
 
 ## Purpose

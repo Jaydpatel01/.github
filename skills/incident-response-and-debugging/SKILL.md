@@ -1,3 +1,8 @@
+---
+name: incident-response-and-debugging
+description: Diagnose and resolve production incidents systematically and safely. Use when investigating bugs, production outages, performance regressions, data corruption, or any system failure requiring root cause analysis.
+---
+
 # Skill: Incident Response and Debugging
 
 ## Purpose

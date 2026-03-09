@@ -1,3 +1,8 @@
+---
+name: infrastructure-as-code
+description: Manage all infrastructure as versioned, tested, and repeatable code. Use when provisioning cloud resources, configuring servers, networks, databases, or managing infrastructure with Terraform, Pulumi, CloudFormation, or similar tools.
+---
+
 # Skill: Infrastructure as Code
 
 ## Purpose
